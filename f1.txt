@@ -1,1 +1,2 @@
 Hello everyone,This is a python class
+It's quite intresting
